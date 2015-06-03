@@ -1,0 +1,86 @@
+body {
+    background-image: url("background-image-5.jpg");
+    background-size: 100% 100%;
+}
+
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height: 200px;
+    width:100px;
+    float:left;
+    padding:5px;
+    font-size: 1.3em;
+   
+  background: -webkit-linear-gradient(#eeeeee, rgba(255,0,0,0)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#eeeeee, rgba(255,0,0,0)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#eeeeee, rgba(255,0,0,0)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#eeeeee, rgba(255,0,0,0)); /* Standard syntax */
+
+}
+
+section {
+    width:900px;
+    min-height: 420px;
+    float:left;
+    padding:20px;
+    margin-left: 80px;
+    display: inline-block;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+centru {
+    text-align:center;
+}
+
+#buton {
+    border: 6px ridge black;
+    margin-top: 60px;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+#introducere-paragraf {
+    border: 6px outset black;
+    padding: 10px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.centru {
+    text-align:center;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 4px ridge black;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}   
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border: 1px solid black;
+}

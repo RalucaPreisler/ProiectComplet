@@ -1,0 +1,33 @@
+[
+  {
+    "title" : "Room1",
+    "description" : "Aweseom1",
+    "roomID" : "1aasd",
+    "isFull" : 1,
+    "hasPassword" : 0
+  },
+  
+  {
+    "title" : "Room2",
+    "description" : "Aweseom1",
+    "roomID" : "1aasd",
+    "isFull" : 0,
+    "hasPassword" : 0
+  },
+  
+  {
+    "title" : "Room1",
+    "description" : "Aweseom1",
+    "roomID" : "1aasd",
+    "isFull" : 1,
+    "hasPassword" : 1
+  },
+  
+  {
+    "title" : "Room1",
+    "description" : "Aweseom",
+    "roomID" : "1aasd",
+    "isFull" : 1,
+    "hasPassword" : 0
+  }
+  ]
